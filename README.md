@@ -3,6 +3,8 @@
 MyTeacher é um projeto que usa o framework Django, como uma API Rest no back-end. Desenvolvido durante o Workshop Semana React Python da TreinaWeb.
 O repositório original pode ser acessado [aqui](https://github.com/treinaweb/workshop-myteacher-python).
 
+O fron-end da aplicação está disponível [nesse repositório](https://github.com/wandersonfelipegp13/myteacher-frontend).
+
 ### Como rodar
 
 Crie um virtual environment:
